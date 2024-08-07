@@ -1,4 +1,4 @@
-### Advanced Offline Emotion Recognition Model: Analyzing Emotions from Audio Files Locally
+### Advanced Offline Emotion Recognition Models: Analyzing Emotions from Audio Files Locally
 
 - [_**ExHuBERT: Enhancing HuBERT Through Block Extension and Fine-Tuning on 37 Emotion Datasets**_](https://huggingface.co/amiriparian/ExHuBERT)
   
